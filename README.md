@@ -1,4 +1,5 @@
 ## Hi there 👋
+Interested in Cybersecurity, product managemant, sales and marketing
 
 <!--
 **Altaaa000/Altaaa000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
